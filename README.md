@@ -11,10 +11,3 @@ e logo depois "ah é, foi eu". Foi meu primeiro contato com as bibliotecas boots
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
-<h2 align="center"> Prints de Telas </h2>
-<h3> Tela inicial </h3>
-<img src="http://prints.lad566.com.br/mvp01.jpg">
-<h3> Tela Login </h3>
-<img src="http://prints.lad566.com.br/mvp02.jpg">
-<h3> Tela Logada como administrador </h3>
-<img src="http://prints.lad566.com.br/mvp03.jpg">
